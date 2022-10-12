@@ -1,0 +1,190 @@
+body{
+    overflow: hidden;
+    font-family: 'Playfair' sans-serif;
+    display: block;
+    margin: 0px;
+}
+.fullscreen-bg {
+    overflow: hidden;
+    z-index: 0;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    padding-top:100%;
+    margin: 0%;
+}
+ 
+.fullscreen-bg__video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 1080px;
+}
+a{
+    text-decoration: none;
+    color: #5A5649;
+}
+a:hover{
+    color: black;
+}
+.General{
+position: absolute;
+width: 100px;
+height: 43px;
+left: 180px;
+top: 390px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+color: #5A5649;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Auto{
+position: absolute;
+width: 100px;
+height: 40px;
+left: 328px;
+top: 390px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+color: #5A5649;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Engine{
+    position: absolute;
+    width: 100px;
+height: 40px;
+left: 496px;
+top: 390px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+color: #5A5649;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Sport{
+    position: absolute;
+    width: 100px;
+height: 40px;
+left: 628px;
+top: 390px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+color: #5A5649;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Bodykits{
+    position: absolute;
+    width: 100px;
+height: 48px;
+left: 748px;
+top: 390px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+color: #5A5649;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.TRD{
+    position: absolute;
+width: 100px;
+height: 38px;
+left: 862px;
+top: 390px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+color: #5A5649;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Nismo{
+    position: absolute;
+width: 100px;
+height: 40px;
+left: 956px;
+top: 390px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+color: #5A5649;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.About{
+    position: absolute;
+width: 100px;
+height: 40px;
+left: 1056px;
+top: 390px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+color: #5A5649;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Dev{
+position: absolute;
+width: 241px;
+height: 43px;
+left: 1219px;
+top: 757px;
+font-family: 'Fasthand';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 43px;
+text-align: center;
+color: #FFFFFF;
+}
+a{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.insta{
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 717px;
+top: 455px;
+}
+.tg{
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 775px;
+top: 455px;
+}
+.vk{
+    position: absolute;
+width: 25px;
+height: 30px;
+left: 743px;
+top: 450px;
+}
